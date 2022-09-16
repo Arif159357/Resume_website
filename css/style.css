@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.btn-green {
+  background: #5ab267;
+}
+.light-blue {
+  color: #11698e;
+}
+.login-hr {
+  background: rgb(0, 0, 0);
+}
+.pad-bottom {
+  padding-bottom: 90px;
+}
+.pad-top {
+  padding-top: 35px;
+}
+.pad-fb-logo {
+  margin-right: -14px;
+  padding-left: 30px;
+}
+.pad-G-logo {
+  padding-left: 24px;
+}
+.pad-lnk-logo {
+  margin-right: -11px;
+  padding-left: 24px;
+}
+.form-control:valid {
+  background-color: #cae0e9 !important;
+}
+.pad-button {
+  padding: 5px 54px;
+}
+.margin-parent-card {
+  margin-left: 160px;
+  background-color: #ebebeb;
+}
